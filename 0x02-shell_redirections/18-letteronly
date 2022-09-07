@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i {abc*} /etc/ssh/sshd_config
+grep --ignore-case abc* /etc/ssh/sshd_config
