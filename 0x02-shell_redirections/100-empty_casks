@@ -1,3 +1,2 @@
 #!/bin/bash
-find . -type fd -empty | ls -l
-
+ls -la  -typef -typed -empty
