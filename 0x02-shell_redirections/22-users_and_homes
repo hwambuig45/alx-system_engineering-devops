@@ -1,2 +1,2 @@
 #!/bin/bash
-sort uid /etc/passwd | sort file /etc/passwd
+sort -typeu /etc/passwd | sort -typef /etc/passwd
