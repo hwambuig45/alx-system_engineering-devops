@@ -1,2 +1,3 @@
 #!/bin/bash
-find . -type f -type d -empty | ls -l
+find . -type fd -empty | ls -l
+
